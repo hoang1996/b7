@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b7_BT2", "b7_BT2\b7_BT2.csproj", "{E42862D4-E5C8-400C-8B1B-5C24EDC60FBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b7_BT3", "b7_BT3\b7_BT3.csproj", "{BF6DE07B-3A56-49C7-A8A3-164C48A90A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42862D4-E5C8-400C-8B1B-5C24EDC60FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42862D4-E5C8-400C-8B1B-5C24EDC60FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42862D4-E5C8-400C-8B1B-5C24EDC60FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42862D4-E5C8-400C-8B1B-5C24EDC60FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6DE07B-3A56-49C7-A8A3-164C48A90A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6DE07B-3A56-49C7-A8A3-164C48A90A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6DE07B-3A56-49C7-A8A3-164C48A90A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6DE07B-3A56-49C7-A8A3-164C48A90A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
